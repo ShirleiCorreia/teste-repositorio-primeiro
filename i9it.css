@@ -1,0 +1,54 @@
+
+
+
+body{
+    border: 1em;
+    font-family: sans-serif;
+    font-size: 1em;
+    color: black;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+
+
+main{
+    background: white;
+}
+#titulo{
+    font-family: sans-serif;
+    font-size:  30px;;
+   
+    text-align: center;
+}
+fieldset{
+    margin-right:15% ;
+}
+.botao{
+    margin-right: 15%;
+}
+h3{
+    text-align: center;
+    margin-right: 15%;
+    margin: auto;
+}
+.input-padrao{
+    display:block; 
+	margin:0 0 20px;
+	padding: 10px 25px;
+	width: 50%;
+}
+.input-site{
+
+    display:inline; 
+	margin:0 0 20px;
+	padding: 10px 25px;
+	width: 50%;
+    
+    }
+
+.enviar{
+    background: lightblue;
+}     
+
+     
